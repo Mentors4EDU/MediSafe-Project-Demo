@@ -11,4 +11,5 @@ Right now we have a custom Admin/Authentication pannel created with Cisco Spark 
 * [Trello API](http://api.trello.com/) - Dependency Management
 * [Google Cloud](https://cloud.google.com) - Hosting
 * [Cisco Spark](ciscospark.com/) - The Portal SDK
-* [LocalHost, Git, Zenbot] Deployment
+* [Raspbian OS](http://pibakery.org/) Hardware OS for Demo Dev
+* [LocalHost, Git, Zenbot](http://zenbot.org/bots) Deployment
