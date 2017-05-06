@@ -8,6 +8,7 @@ Right now we have a custom Admin/Authentication pannel created with Cisco Spark 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Trello API](http://api.trello.com/) - Dependency Management
+* [Google Cloud](https://cloud.google.com) - Hosting
+* [Cisco Spark](ciscospark.com/) - The Portal SDK
+* [LocalHost, Git, Zenbot] Deployment
